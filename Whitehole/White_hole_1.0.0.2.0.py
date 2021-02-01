@@ -69,7 +69,7 @@ if namez=="u1":
     blockw1=4
     nameas=name
     nac=len(nameas)
-    if nameas[nac-3:nac]==".b1":
+    if nameas[nac-6:nac]==".b1":
         nameas=nameas[0:nac-3]
     countraz=0
     
@@ -529,7 +529,7 @@ if namez=="c1":
    
     blockw=5
     blockw1=4
-    nameas=name+".b1"
+    nameas=name+".bin"
     countraz=0
     
     s=""
