@@ -69,8 +69,8 @@ if namez=="u1":
     blockw1=4
     nameas=name
     nac=len(nameas)
-    if nameas[nac-6:nac]==".b1":
-        nameas=nameas[0:nac-3]
+    if nameas[nac-4:nac]==".b1":
+        nameas=nameas[0:nac-4]
     countraz=0
     
     s=""
