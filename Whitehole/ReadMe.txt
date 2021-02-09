@@ -1,4 +1,5 @@
-I record programs. I enjoy writing programs.
+I record programs. I enjoy writing programs. 
+I'm recording programs.
 White_hole 1.0.0.2.0 Compression Software Aplication Program
 The Software includes Autoruns, Python Software and the .reg file.
 Software, USB, CD and DVD Software.
